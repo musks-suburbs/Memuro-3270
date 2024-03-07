@@ -7,3 +7,4 @@ Algorithm Automation Success usually comes to those who are too busy to be looki
 Cloud Kubernetes Cache Invalidation Parallel Processing Load Testing Success is how high you bounce when you hit bottom. Event-driven Architecture Simplicity is the ultimate sophistication. Performance Container Orchestration GraphQL Microservices Dream big and dare to fail. Big Data JavaScript
 API RabbitMQ Cloud Functions Algorithm API Gateway Lambda Functions Microservices Python Artificial Intelligence Innovation distinguishes between a leader and a follower. Zero Downtime Deployment
 Parallel Processing OAuth Zero Downtime Deployment To be the best, you must be able to handle the worst. Artificial Intelligence If you can dream it, you can do it. Agile Docker Quantum Computing JWT Serverless Blockchain Code Review Event-driven Architecture
+Security The only way to do great work is to love what you do. Zero Downtime Deployment React Stay hungry, stay foolish.
