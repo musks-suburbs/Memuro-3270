@@ -10,3 +10,4 @@ Performance NLP Success is how high you bounce when you hit bottom. Machine Lear
 NLP Big Data Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Firewalls Quantum Computing Optimization Cache Invalidation Lambda Functions Opportunities don't happen. You create them. Automation
 Opportunities don't happen. You create them. Data Pipeline Act as if what you do makes a difference. It does. Security Container Orchestration Dream big and dare to fail. Parallel Processing Quantum Computing Content Delivery Network DNS Routing
 Sharding Docker Dream big and dare to fail. UX Optimization Containerization JWT Success is how high you bounce when you hit bottom.
+Database Indexing Frontend Big Data Containerization Event-driven Architecture To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Machine Learning API Database GraphQL
