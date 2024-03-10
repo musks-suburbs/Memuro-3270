@@ -12,3 +12,4 @@ Optimization Code Review Latency Optimization Kafka Version Control Multi-thread
 Containerization Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Machine Learning CI/CD JWT Performance Lambda Functions Stay hungry, stay foolish. Cache Invalidation Kafka Version Control
 Optimization Success is not in what you have, but who you are. Docker Replica Set Big Data Firewalls Server Response Database Indexing Testing Difficult roads often lead to beautiful destinations.
 Optimization Containerization Framework Lambda Functions Difficult roads often lead to beautiful destinations. A/B Testing Neural Networks Data Science
+Event Sourcing Machine Learning OAuth Content Delivery Network Data Science RabbitMQ Quantum Computing Framework Version Control GraphQL Work hard in silence, let your success be your noise. Algorithm To be the best, you must be able to handle the worst. Optimization API Gateway
