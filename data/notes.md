@@ -13,3 +13,4 @@ Algorithm Virtual Machines Replica Set Framework Difficult roads often lead to b
 Lambda Functions If you can dream it, you can do it. JWT Backend Great things never come from comfort zones. Neural Networks
 Testing The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
 Database Content Delivery Network Replica Set Zero Downtime Deployment Sharding Frontend Artificial Intelligence
+Kubernetes Agile Multi-threading Cloud Containerization Distributed Systems Pull Request WebSockets Frontend Blockchain React Monitoring Opportunities don't happen. You create them. DevOps
