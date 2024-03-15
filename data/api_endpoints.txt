@@ -5,3 +5,4 @@ Neural Networks A/B Testing Predictive Analytics Multi-threading GraphQL Perform
 JWT Dream big and dare to fail. Cloud Backend Sharding DevOps Scalability Innovation distinguishes between a leader and a follower. Event Sourcing
 Security Artificial Intelligence Predictive Analytics To be the best, you must be able to handle the worst. Load Balancing Sharding Cloud Neural Networks React Kubernetes
 Machine Learning JWT Cloud Functions Automation Load Balancing NLP Neural Networks Dream big and dare to fail.
+JWT UX Optimization Act as if what you do makes a difference. It does. Framework Event Sourcing Automation Content Delivery Network Database Firewalls Pull Request Success is not in what you have, but who you are. DevOps Success doesn’t just find you. You have to go out and get it.
