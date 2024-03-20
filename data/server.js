@@ -11,3 +11,4 @@ Great things never come from comfort zones. Success is not in what you have, but
 Content Delivery Network Container Orchestration Database Code Review Happiness is not something ready made. It comes from your own actions. Artificial Intelligence
 Optimization Data Science Serverless DevOps Container Orchestration Simplicity is the ultimate sophistication. Kubernetes Cache Invalidation
 Success usually comes to those who are too busy to be looking for it. Content Delivery Network Code Review Containerization GraphQL Multi-threading Sharding Happiness is not something ready made. It comes from your own actions. Load Balancing
+Database Indexing Performance Kafka Cloud A/B Testing Cache Invalidation Dream big and dare to fail.
