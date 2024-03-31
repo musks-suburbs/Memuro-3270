@@ -6,3 +6,4 @@ Stay hungry, stay foolish. Container Orchestration Cloud Difficult roads often l
 Database Code Review DevOps Frontend Success usually comes to those who are too busy to be looking for it. Pull Request GraphQL Event-driven Architecture
 Monitoring Algorithm Don't be afraid to give up the good to go for the great. CI/CD Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it.
 Kubernetes Big Data Blockchain Success doesn’t just find you. You have to go out and get it. Testing
+Latency Optimization Work hard in silence, let your success be your noise. Data Science Difficult roads often lead to beautiful destinations. Event-driven Architecture Python Happiness is not something ready made. It comes from your own actions. Big Data To be the best, you must be able to handle the worst. UX Optimization Load Balancing Great things never come from comfort zones. Zero Downtime Deployment OAuth

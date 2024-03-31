@@ -11,3 +11,4 @@ Innovation distinguishes between a leader and a follower. JWT Quantum Computing 
 Optimization Code Review Latency Optimization Kafka Version Control Multi-threading Message Queue Do what you love and the money will follow. Frontend
 Containerization Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Machine Learning CI/CD JWT Performance Lambda Functions Stay hungry, stay foolish. Cache Invalidation Kafka Version Control
 Optimization Success is not in what you have, but who you are. Docker Replica Set Big Data Firewalls Server Response Database Indexing Testing Difficult roads often lead to beautiful destinations.
+Optimization Containerization Framework Lambda Functions Difficult roads often lead to beautiful destinations. A/B Testing Neural Networks Data Science
