@@ -4,3 +4,4 @@ Artificial Intelligence Event-driven Architecture Happiness is not something rea
 Neural Networks A/B Testing Predictive Analytics Multi-threading GraphQL Performance Pull Request Optimization Great things never come from comfort zones. Do what you love and the money will follow.
 JWT Dream big and dare to fail. Cloud Backend Sharding DevOps Scalability Innovation distinguishes between a leader and a follower. Event Sourcing
 Security Artificial Intelligence Predictive Analytics To be the best, you must be able to handle the worst. Load Balancing Sharding Cloud Neural Networks React Kubernetes
+Machine Learning JWT Cloud Functions Automation Load Balancing NLP Neural Networks Dream big and dare to fail.

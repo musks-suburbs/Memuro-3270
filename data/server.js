@@ -10,3 +10,4 @@ Database I find that the harder I work, the more luck I seem to have. IoT Server
 Great things never come from comfort zones. Success is not in what you have, but who you are. GraphQL Database Indexing Container Orchestration Do what you love and the money will follow. Backend
 Content Delivery Network Container Orchestration Database Code Review Happiness is not something ready made. It comes from your own actions. Artificial Intelligence
 Optimization Data Science Serverless DevOps Container Orchestration Simplicity is the ultimate sophistication. Kubernetes Cache Invalidation
+Success usually comes to those who are too busy to be looking for it. Content Delivery Network Code Review Containerization GraphQL Multi-threading Sharding Happiness is not something ready made. It comes from your own actions. Load Balancing
