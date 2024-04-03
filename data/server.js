@@ -9,3 +9,4 @@ Success is how high you bounce when you hit bottom. A/B Testing Python Success u
 Database I find that the harder I work, the more luck I seem to have. IoT Server Response Testing JavaScript Blockchain WebSockets Agile Great things never come from comfort zones. Neural Networks Content Delivery Network Performance Pull Request API
 Great things never come from comfort zones. Success is not in what you have, but who you are. GraphQL Database Indexing Container Orchestration Do what you love and the money will follow. Backend
 Content Delivery Network Container Orchestration Database Code Review Happiness is not something ready made. It comes from your own actions. Artificial Intelligence
+Optimization Data Science Serverless DevOps Container Orchestration Simplicity is the ultimate sophistication. Kubernetes Cache Invalidation
