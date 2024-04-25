@@ -4,3 +4,4 @@ Innovation distinguishes between a leader and a follower. Containerization Frame
 Happiness is not something ready made. It comes from your own actions. Replica Set Performance To be the best, you must be able to handle the worst. Virtual Machines Load Testing Cache Invalidation
 Stay hungry, stay foolish. Container Orchestration Cloud Difficult roads often lead to beautiful destinations. Lambda Functions Happiness is not something ready made. It comes from your own actions. Virtual Machines Replica Set Big Data JavaScript WebSockets RabbitMQ
 Database Code Review DevOps Frontend Success usually comes to those who are too busy to be looking for it. Pull Request GraphQL Event-driven Architecture
+Monitoring Algorithm Don't be afraid to give up the good to go for the great. CI/CD Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it.
