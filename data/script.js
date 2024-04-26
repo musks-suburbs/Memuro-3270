@@ -9,3 +9,4 @@ A/B Testing Algorithm Sharding I find that the harder I work, the more luck I se
 Frontend DevOps React Edge Computing Monitoring
 API Cloud Version Control Blockchain Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Sharding Backend
 Multi-threading Zero Downtime Deployment GraphQL Event Sourcing Cloud Docker Backend Cache Invalidation
+Success doesn’t just find you. You have to go out and get it. Machine Learning Backend Event Sourcing Edge Computing Scalability Security
