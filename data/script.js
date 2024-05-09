@@ -8,3 +8,4 @@ Success doesn’t just find you. You have to go out and get it. Serverless Act as 
 A/B Testing Algorithm Sharding I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Deployment Simplicity is the ultimate sophistication. Python Version Control Replica Set Security The only way to do great work is to love what you do. WebSockets Difficult roads often lead to beautiful destinations.
 Frontend DevOps React Edge Computing Monitoring
 API Cloud Version Control Blockchain Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Sharding Backend
+Multi-threading Zero Downtime Deployment GraphQL Event Sourcing Cloud Docker Backend Cache Invalidation
