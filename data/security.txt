@@ -8,3 +8,4 @@ React Automation Pull Request Success is how high you bounce when you hit bottom
 API A/B Testing Great things never come from comfort zones. React Work hard in silence, let your success be your noise. Docker Container Orchestration Security Code Review OAuth
 Microservices React Algorithm API DevOps Cloud Functions Optimization Security A/B Testing Virtual Machines Data Science
 Version Control Replica Set Frontend Message Queue Agile DevOps JWT Predictive Analytics Docker Neural Networks Quantum Computing Artificial Intelligence Great things never come from comfort zones. Optimization Machine Learning
+Success is not in what you have, but who you are. Monitoring Big Data Parallel Processing Testing Performance Kafka Zero Downtime Deployment API Gateway Replica Set To be the best, you must be able to handle the worst. Event Sourcing
