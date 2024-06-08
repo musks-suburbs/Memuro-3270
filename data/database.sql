@@ -10,3 +10,4 @@ Stay hungry, stay foolish. Event-driven Architecture Optimization Edge Computing
 Machine Learning Monitoring API Simplicity is the ultimate sophistication. Kafka Great things never come from comfort zones. Lambda Functions Data Science Containerization Distributed Systems Docker
 Success is how high you bounce when you hit bottom. Replica Set Zero Downtime Deployment Distributed Systems Database The only way to do great work is to love what you do. Data Science Content Delivery Network Containerization Work hard in silence, let your success be your noise. Testing
 Quantum Computing Monitoring API Gateway Container Orchestration Backend Success is not in what you have, but who you are. DevOps Latency Optimization Data Science Scalability Microservices DNS Routing Distributed Systems Load Testing
+Containerization Version Control Message Queue Scalability Data Science Performance Big Data Sharding
