@@ -10,3 +10,4 @@ Work hard in silence, let your success be your noise. API Deployment Scalability
 Serverless Cloud RabbitMQ React Big Data Multi-threading Optimization Great things never come from comfort zones. Neural Networks Virtual Machines Event-driven Architecture Work hard in silence, let your success be your noise. Quantum Computing Act as if what you do makes a difference. It does.
 Message Queue Data Science Machine Learning Backend Cache Invalidation Python Load Balancing GraphQL
 Content Delivery Network DNS Routing DevOps Kafka Version Control To be the best, you must be able to handle the worst. Frontend GraphQL Container Orchestration Cloud Functions Event-driven Architecture Big Data Framework Edge Computing
+Framework Latency Optimization Success doesn’t just find you. You have to go out and get it. Monitoring API Algorithm RabbitMQ Big Data Success is how high you bounce when you hit bottom. Serverless Success is not in what you have, but who you are.
