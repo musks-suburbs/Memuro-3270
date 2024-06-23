@@ -9,3 +9,4 @@ Data Pipeline Kafka Logging I find that the harder I work, the more luck I seem 
 Database Lambda Functions JavaScript Success is not in what you have, but who you are. Parallel Processing Data Pipeline The only way to do great work is to love what you do. Dream big and dare to fail. Docker Virtual Machines Blockchain
 Innovation distinguishes between a leader and a follower. JWT Quantum Computing A/B Testing Scalability Code Review Sharding Frontend
 Optimization Code Review Latency Optimization Kafka Version Control Multi-threading Message Queue Do what you love and the money will follow. Frontend
+Containerization Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Machine Learning CI/CD JWT Performance Lambda Functions Stay hungry, stay foolish. Cache Invalidation Kafka Version Control
