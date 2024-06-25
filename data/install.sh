@@ -3,3 +3,4 @@ Serverless Microservices Success is not in what you have, but who you are. Edge 
 Replica Set The only way to do great work is to love what you do. Version Control Quantum Computing Success is how high you bounce when you hit bottom. CI/CD Performance Data Science Database JavaScript Neural Networks Machine Learning
 Predictive Analytics Framework Sharding Do what you love and the money will follow. Performance Database Version Control
 Performance Pull Request A/B Testing Content Delivery Network To be the best, you must be able to handle the worst. Database Indexing Backend Agile
+Algorithm Automation Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Data Science
