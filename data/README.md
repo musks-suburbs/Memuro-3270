@@ -8,3 +8,4 @@ Quantum Computing RabbitMQ Serverless Containerization Dream big and dare to fai
 Data Pipeline Kafka Logging I find that the harder I work, the more luck I seem to have. Microservices Happiness is not something ready made. It comes from your own actions. Neural Networks Great things never come from comfort zones. JWT Monitoring
 Database Lambda Functions JavaScript Success is not in what you have, but who you are. Parallel Processing Data Pipeline The only way to do great work is to love what you do. Dream big and dare to fail. Docker Virtual Machines Blockchain
 Innovation distinguishes between a leader and a follower. JWT Quantum Computing A/B Testing Scalability Code Review Sharding Frontend
+Optimization Code Review Latency Optimization Kafka Version Control Multi-threading Message Queue Do what you love and the money will follow. Frontend
