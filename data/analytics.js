@@ -9,3 +9,4 @@ Containerization Message Queue A/B Testing GraphQL If you can dream it, you can 
 JWT Neural Networks OAuth API Gateway Parallel Processing Pull Request Content Delivery Network
 JavaScript Python Version Control Load Balancing Dream big and dare to fail. Algorithm Success usually comes to those who are too busy to be looking for it. IoT
 Predictive Analytics Microservices Latency Optimization If you can dream it, you can do it. Optimization Edge Computing Content Delivery Network DevOps Kubernetes Load Balancing Automation Act as if what you do makes a difference. It does. Zero Downtime Deployment Data Science
+Do what you love and the money will follow. Database API Success is not in what you have, but who you are. Docker React Edge Computing
