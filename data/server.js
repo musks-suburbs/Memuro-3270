@@ -4,3 +4,4 @@ Sharding Predictive Analytics Virtual Machines Containerization IoT Cache Invali
 Python NLP Code Review Zero Downtime Deployment Database Indexing Version Control Success usually comes to those who are too busy to be looking for it. Virtual Machines Database Frontend
 Quantum Computing Distributed Systems Backend Cloud Security Do what you love and the money will follow. JavaScript Replica Set RabbitMQ
 Great things never come from comfort zones. Kafka Scalability Predictive Analytics Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Distributed Systems Version Control Happiness is not something ready made. It comes from your own actions. Microservices CI/CD Difficult roads often lead to beautiful destinations. UX Optimization
+Backend Scalability A/B Testing Monitoring Success is not in what you have, but who you are. Kubernetes Message Queue Act as if what you do makes a difference. It does. Kafka Big Data DNS Routing
