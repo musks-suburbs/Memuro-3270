@@ -6,3 +6,4 @@ Deployment Success usually comes to those who are too busy to be looking for it.
 Containerization Firewalls Zero Downtime Deployment Logging Innovation distinguishes between a leader and a follower. Data Science
 Content Delivery Network Dream big and dare to fail. Replica Set API Do what you love and the money will follow. NLP
 To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Automation Firewalls Machine Learning Python Lambda Functions Quantum Computing DNS Routing Event-driven Architecture Cloud Functions
+CI/CD GraphQL Act as if what you do makes a difference. It does. Database Indexing Algorithm Success usually comes to those who are too busy to be looking for it. Agile API Success is how high you bounce when you hit bottom. WebSockets Don't be afraid to give up the good to go for the great. Testing Artificial Intelligence Zero Downtime Deployment
