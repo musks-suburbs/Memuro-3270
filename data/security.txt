@@ -4,3 +4,4 @@ The only way to do great work is to love what you do. DNS Routing Latency Optimi
 Code Review Difficult roads often lead to beautiful destinations. Edge Computing Framework Content Delivery Network Version Control CI/CD Artificial Intelligence If you can dream it, you can do it. Python
 Virtual Machines NLP Event Sourcing Frontend Microservices Don't be afraid to give up the good to go for the great. Message Queue Multi-threading Parallel Processing Simplicity is the ultimate sophistication.
 I find that the harder I work, the more luck I seem to have. Agile Serverless Great things never come from comfort zones. Pull Request Code Review Dream big and dare to fail. Algorithm Database Firewalls Framework Docker CI/CD
+React Automation Pull Request Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Testing Zero Downtime Deployment Containerization OAuth CI/CD Cloud Microservices Cloud Functions DevOps
