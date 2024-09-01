@@ -4,3 +4,4 @@ Security Predictive Analytics Multi-threading Serverless Agile Success is not in
 API I find that the harder I work, the more luck I seem to have. Database Indexing Virtual Machines React Success usually comes to those who are too busy to be looking for it. Performance
 Security Neural Networks Frontend Simplicity is the ultimate sophistication. Version Control Database Indexing JavaScript Zero Downtime Deployment
 Kubernetes Opportunities don't happen. You create them. Version Control Data Pipeline Pull Request To be the best, you must be able to handle the worst. Virtual Machines Container Orchestration Distributed Systems
+Opportunities don't happen. You create them. Cache Invalidation A/B Testing Optimization API Machine Learning JavaScript Predictive Analytics OAuth Cloud Blockchain Act as if what you do makes a difference. It does. Event Sourcing
