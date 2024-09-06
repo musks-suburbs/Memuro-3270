@@ -3,3 +3,4 @@ Success is how high you bounce when you hit bottom. Agile Code Review Replica Se
 Security Predictive Analytics Multi-threading Serverless Agile Success is not in what you have, but who you are. Quantum Computing Edge Computing Microservices Backend Containerization Cloud Data Science API Gateway Testing
 API I find that the harder I work, the more luck I seem to have. Database Indexing Virtual Machines React Success usually comes to those who are too busy to be looking for it. Performance
 Security Neural Networks Frontend Simplicity is the ultimate sophistication. Version Control Database Indexing JavaScript Zero Downtime Deployment
+Kubernetes Opportunities don't happen. You create them. Version Control Data Pipeline Pull Request To be the best, you must be able to handle the worst. Virtual Machines Container Orchestration Distributed Systems
