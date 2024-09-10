@@ -7,3 +7,4 @@ Blockchain Don't be afraid to give up the good to go for the great. Kubernetes C
 Blockchain Lambda Functions Act as if what you do makes a difference. It does. CI/CD Containerization
 Containerization Message Queue A/B Testing GraphQL If you can dream it, you can do it. Performance Frontend Distributed Systems Container Orchestration
 JWT Neural Networks OAuth API Gateway Parallel Processing Pull Request Content Delivery Network
+JavaScript Python Version Control Load Balancing Dream big and dare to fail. Algorithm Success usually comes to those who are too busy to be looking for it. IoT
