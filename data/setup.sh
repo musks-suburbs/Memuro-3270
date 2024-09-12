@@ -4,3 +4,4 @@ Optimization Simplicity is the ultimate sophistication. Frontend Security Server
 Server Response A/B Testing API Gateway Serverless Multi-threading To be the best, you must be able to handle the worst. Event Sourcing Difficult roads often lead to beautiful destinations. Blockchain Code Review
 Artificial Intelligence CI/CD IoT Zero Downtime Deployment Backend Blockchain Firewalls Python Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Multi-threading
 Blockchain DevOps Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. NLP JWT The only way to do great work is to love what you do.
+Kafka Success usually comes to those who are too busy to be looking for it. JavaScript I find that the harder I work, the more luck I seem to have. JWT Multi-threading Virtual Machines Work hard in silence, let your success be your noise. Blockchain Data Pipeline Cloud React
