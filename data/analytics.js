@@ -6,3 +6,4 @@ Event Sourcing CI/CD To be the best, you must be able to handle the worst. JavaS
 Blockchain Don't be afraid to give up the good to go for the great. Kubernetes Cloud Agile Event-driven Architecture Difficult roads often lead to beautiful destinations. Load Balancing
 Blockchain Lambda Functions Act as if what you do makes a difference. It does. CI/CD Containerization
 Containerization Message Queue A/B Testing GraphQL If you can dream it, you can do it. Performance Frontend Distributed Systems Container Orchestration
+JWT Neural Networks OAuth API Gateway Parallel Processing Pull Request Content Delivery Network
