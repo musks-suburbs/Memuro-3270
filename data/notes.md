@@ -7,3 +7,4 @@ Act as if what you do makes a difference. It does. Monitoring Cloud Functions Qu
 Logging Load Balancing Testing Container Orchestration DevOps Backend GraphQL Success usually comes to those who are too busy to be looking for it. Replica Set Pull Request Docker Act as if what you do makes a difference. It does. Latency Optimization DNS Routing React
 Backend Lambda Functions Work hard in silence, let your success be your noise. Algorithm Zero Downtime Deployment Deployment
 Data Pipeline API Gateway Frontend Cache Invalidation Data Science Container Orchestration Success usually comes to those who are too busy to be looking for it. Load Testing Agile Machine Learning Success is how high you bounce when you hit bottom. Server Response React
+Performance If you can dream it, you can do it. API Framework RabbitMQ Do what you love and the money will follow. Testing Multi-threading Kubernetes Container Orchestration Optimization Dream big and dare to fail.

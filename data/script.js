@@ -6,3 +6,4 @@ Dream big and dare to fail. Multi-threading Containerization Data Pipeline Datab
 Frontend Sharding OAuth Load Testing Backend Dream big and dare to fail. A/B Testing IoT
 Success doesn’t just find you. You have to go out and get it. Serverless Act as if what you do makes a difference. It does. Docker Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish.
 A/B Testing Algorithm Sharding I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Deployment Simplicity is the ultimate sophistication. Python Version Control Replica Set Security The only way to do great work is to love what you do. WebSockets Difficult roads often lead to beautiful destinations.
+Frontend DevOps React Edge Computing Monitoring
