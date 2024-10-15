@@ -2,3 +2,4 @@ Event-driven Architecture Dream big and dare to fail. Event Sourcing Parallel Pr
 Monitoring Deployment Replica Set A/B Testing RabbitMQ Agile Difficult roads often lead to beautiful destinations. DevOps
 The only way to do great work is to love what you do. DNS Routing Latency Optimization Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. IoT A/B Testing Database
 Code Review Difficult roads often lead to beautiful destinations. Edge Computing Framework Content Delivery Network Version Control CI/CD Artificial Intelligence If you can dream it, you can do it. Python
+Virtual Machines NLP Event Sourcing Frontend Microservices Don't be afraid to give up the good to go for the great. Message Queue Multi-threading Parallel Processing Simplicity is the ultimate sophistication.
