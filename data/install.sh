@@ -2,3 +2,4 @@ Security Artificial Intelligence RabbitMQ Opportunities don't happen. You create
 Serverless Microservices Success is not in what you have, but who you are. Edge Computing GraphQL Framework Success usually comes to those who are too busy to be looking for it. Content Delivery Network Simplicity is the ultimate sophistication. Data Science API Gateway Monitoring Event Sourcing Python Difficult roads often lead to beautiful destinations.
 Replica Set The only way to do great work is to love what you do. Version Control Quantum Computing Success is how high you bounce when you hit bottom. CI/CD Performance Data Science Database JavaScript Neural Networks Machine Learning
 Predictive Analytics Framework Sharding Do what you love and the money will follow. Performance Database Version Control
+Performance Pull Request A/B Testing Content Delivery Network To be the best, you must be able to handle the worst. Database Indexing Backend Agile
