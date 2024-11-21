@@ -2,3 +2,4 @@ React GraphQL Success doesn’t just find you. You have to go out and get it. Data
 Kubernetes Neural Networks Backend Frontend Event Sourcing Virtual Machines Server Response Success is not in what you have, but who you are. Firewalls JWT Agile
 Data Pipeline RabbitMQ Stay hungry, stay foolish. Cache Invalidation Algorithm Do what you love and the money will follow.
 Predictive Analytics Message Queue Database Indexing JavaScript Security Scalability Container Orchestration The only way to do great work is to love what you do.
+Multi-threading OAuth Simplicity is the ultimate sophistication. Logging Security Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Agile Dream big and dare to fail. Load Balancing RabbitMQ Parallel Processing Predictive Analytics
