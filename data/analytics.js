@@ -1,2 +1,3 @@
 Framework Content Delivery Network Code Review React If you can dream it, you can do it. A/B Testing Success doesn’t just find you. You have to go out and get it. Data Science The only way to do great work is to love what you do. Machine Learning Database Indexing Stay hungry, stay foolish. Cache Invalidation Optimization Distributed Systems
 OAuth Great things never come from comfort zones. Cache Invalidation Algorithm Content Delivery Network Security Simplicity is the ultimate sophistication. Database Big Data Server Response Event-driven Architecture
+Quantum Computing Data Science Kafka API Gateway Virtual Machines Python Scalability A/B Testing Predictive Analytics Docker NLP
