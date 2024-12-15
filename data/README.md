@@ -1,1 +1,2 @@
 Automation WebSockets Success is not in what you have, but who you are. Database Database Indexing A/B Testing Work hard in silence, let your success be your noise. Dream big and dare to fail. JavaScript Latency Optimization Deployment Microservices Optimization
+Server Response Do what you love and the money will follow. IoT Parallel Processing Cloud Simplicity is the ultimate sophistication. NLP Microservices
