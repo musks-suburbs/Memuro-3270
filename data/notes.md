@@ -1,1 +1,2 @@
 Version Control Big Data Content Delivery Network Message Queue Dream big and dare to fail. UX Optimization Edge Computing Distributed Systems Load Balancing Event Sourcing Docker
+CI/CD Simplicity is the ultimate sophistication. Testing RabbitMQ Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Containerization Innovation distinguishes between a leader and a follower.
