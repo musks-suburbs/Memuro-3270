@@ -1,1 +1,2 @@
 React GraphQL Success doesn’t just find you. You have to go out and get it. Database Version Control Testing Distributed Systems UX Optimization Do what you love and the money will follow. Parallel Processing Load Balancing Logging
+Kubernetes Neural Networks Backend Frontend Event Sourcing Virtual Machines Server Response Success is not in what you have, but who you are. Firewalls JWT Agile
