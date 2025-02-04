@@ -1,0 +1,1 @@
+Event-driven Architecture Dream big and dare to fail. Event Sourcing Parallel Processing Kubernetes Agile DNS Routing
